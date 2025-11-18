@@ -1,5 +1,5 @@
 def number(n):
     print(n)
     
-m=15
+m=13
 number(m)
